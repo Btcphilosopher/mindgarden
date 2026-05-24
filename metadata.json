@@ -1,0 +1,6 @@
+{
+  "name": "MindGarden",
+  "description": "A personal knowledge operating system for structured thinking and memory: obsidian-style links, interactive knowledge graphs, markdown editor, structured journals, and automated summaries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
